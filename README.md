@@ -1,1 +1,1 @@
-Weather-App Link :=> (https://weather-app-by-sam.vercel.app/)](https://weather-app-by-sam.vercel.app/)
+Weather-App Link :=> (https://weather-app-by-sam.vercel.app/)
